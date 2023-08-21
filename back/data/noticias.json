@@ -1,0 +1,12 @@
+{
+  "id": "123456789",
+  "comentario": "Este es un comentario de ejemplo",
+  "fecha": "2023-06-25T12:34:56Z",
+  "author": "John Doe",
+  "entityId": "abcdef123456"
+}
+
+-controlador del comentario
+-api route comentario
+-servicio de los comentarios
+-schema de comentario
